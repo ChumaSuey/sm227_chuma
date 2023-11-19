@@ -58,7 +58,7 @@ Special Thanks
 
 ### Extra: Who are "The Disciples of Shub Niggurath"?
 
-I have frequent people that help me on with my maps, so it is with coding projects, so i decided to make a small group list(non-related or attached) of those that help me, the intention is that it sounds like a band, so, i'll list it as it was written with some modifications):
+I have frequent people that help me on with my maps, so it is with coding projects, so i decided to make a small group list(non-related or attached) of those that help me, the intention is that it sounds like a band, so, i'll list it as it was written with some modifications (this is some sort of "wholesome meme", don't worry, just Chuma being Chuma/ myself being myself):
 
 ## The Disciples of Shub Niggurath:
 
